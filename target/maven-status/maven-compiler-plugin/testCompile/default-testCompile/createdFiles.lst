@@ -1,0 +1,6 @@
+uk\co\which\forensicsapi\service\ForensicsNavigationDataServiceTest.class
+uk\co\which\forensicsapi\utils\NavigationDataGeneratorHelperTest.class
+uk\co\which\forensicsapi\ForensicsApiApplicationTests.class
+uk\co\which\forensicsapi\utils\NavigationDataResultHelperTest.class
+uk\co\which\forensicsapi\controller\ForensicsControllerTest.class
+uk\co\which\forensicsapi\utils\ForensicsUtilsTest.class

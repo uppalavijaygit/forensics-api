@@ -1,0 +1,17 @@
+uk\co\which\forensicsapi\model\Position$PositionBuilder.class
+uk\co\which\forensicsapi\utils\NavigationDataGeneratorHelper.class
+uk\co\which\forensicsapi\exception\IncorrectAPICallException.class
+uk\co\which\forensicsapi\ForensicsApiApplication.class
+uk\co\which\forensicsapi\controller\ForensicsController.class
+uk\co\which\forensicsapi\exception\ForensicesExceptionHandler.class
+uk\co\which\forensicsapi\model\NavigationData$NavigationDataBuilder.class
+uk\co\which\forensicsapi\exception\IncorrectGuesslException.class
+uk\co\which\forensicsapi\model\Position.class
+uk\co\which\forensicsapi\utils\NavigationDataResultHelper.class
+uk\co\which\forensicsapi\exception\ErrorInfo.class
+uk\co\which\forensicsapi\model\Direction.class
+uk\co\which\forensicsapi\model\Step.class
+uk\co\which\forensicsapi\service\ForensicsNavigationDataService.class
+uk\co\which\forensicsapi\model\NavigationData.class
+uk\co\which\forensicsapi\model\Step$StepBuilder.class
+uk\co\which\forensicsapi\utils\ForensicsUtils.class
